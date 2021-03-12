@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Gintama",
+      "body": "Gin Tama (銀魂, lit. \"Silver Soul\") is a Japanese manga series written and illustrated by Hideaki Sorachi. Set in Edo, which has been conquered by aliens named Amanto, the plot follows life from the point of view of samurai Gintoki Sakata, who works as a freelancer alongside his friends Shinpachi Shimura and Kagura in order to pay the monthly rent. Sorachi added the science fiction setting to develop characters to his liking after his editor suggested doing a historical series. It was serialized in Shueisha's Weekly Shōnen Jump from December 2003 to September 2018, later in Jump GIGA from December 2018 to February 2019, and finished on the Gin Tama app in June 2019.\n\nThe series has been adapted into an original video animation (OVA) by Sunrise and was featured at Jump Festa 2006 Anime Tour in 2005. This was followed by a full 367-episode anime television series, which debuted in April 2006 on TV Tokyo, and finished in October 2018. Three animated films have been produced. The first film premiered in April 2010. The second film premiered in July 2013. The third and final film premiered in January 2021. Besides the anime series, there have been various light novels and video games based on Gin Tama. A live-action film adaptation of the same name was released in July 2017 in Japan by Warner Bros. Pictures.[3]\n\nThe manga has been licensed by Viz Media in North America. In addition to publishing the individual volumes of the series, Viz serialized its first chapters in their Shonen Jump manga anthology. It debuted in the January 2007 issue, and was serialized at a rate of one chapter a month. Sentai Filmworks initially licensed the series. The website Crunchyroll purchased the anime's streaming rights and home video rights.\n\nIn Japan, the Gin Tama manga has been popular, with over 55 million copies in print, making it one of the best-selling manga series. The anime and its DVDs have been featured, at various times, in Top Ten rankings of their respective media, while TV Tokyo has announced that the first Gin Tama anime was responsible for high sales overseas along with the anime adaptation from Naruto. Publications for manga, anime and others have commented on the Gin Tama manga. Positive responses have focused on the comedy and characters from the series, as well as its overarching plot and action choreography.",
+      "author": "Hideaki Sorachi",
+      "id": 4
+    },
+    {
+      "title": "Steins;Gate",
+      "body": "Steins;Gate is a 2011 anime television series created by the animation studio White Fox based on 5pb. and Nitroplus's 2009 visual novel of the same name, and is part of the Science Adventure franchise along with Chaos;Head and Robotics;Notes. It is set in 2010, and follows Rintaro Okabe, who together with his friends accidentally discovers a method of time travel through which they can send text messages to the past, thereby changing the present.\n\nThe series was directed by Hiroshi Hamasaki and Takuya Satō, and written by Jukki Hanada, with animation direction and character design by Kyuuta Sakai, and music by Takeshi Abo. It aired for 24 episodes, and was simulcast in North and South America, Africa, the Middle East and parts of Europe by Crunchyroll and in the United Kingdom by Anime on Demand. A 25th episode was later included with the DVD and Blu-ray releases; these releases were handled by Funimation in North America and by Manga Entertainment in the United Kingdom. The series has also spawned four original net animation episodes and a film sequel, and Steins;Gate 0, an anime adaptation of the Steins;Gate game's sequel, premiered in 2018. Steins;Gate was well received by critics: several reviewers liked the story and writing, although some criticized the pacing of the first half.",
+      "author": "Jukki Hanada",
+      "id": 11
+    },
+    {
+      "title": "Haikyu!!",
+      "body": "Haikyu!! (ハイキュー!!, from the kanji 排球 \"volleyball\") is a Japanese manga series written and illustrated by Haruichi Furudate. The story follows Shōyō Hinata, a boy determined to become a great volleyball player despite his small stature. It was serialized in Shueisha Weekly Shōnen Jump from February 2012 to July 2020, with its chapters collected in forty-five tankōbon volumes.\n\nAn anime television series adaptation by Production I.G aired from April 2014 to September 2014, with 25 episodes. A second season aired from October 2015 to March 2016, with 25 episodes. A third season aired from October 2016 to December 2016, with 10 episodes. A fourth season was announced during the Jump Festa '19 and was planned for release in two cours, the first cour of 13 episodes aired from January to April 2020, and the second cour of 12 episodes aired from October to December 2020.\n\nIn North America, the manga has been licensed by Viz Media, while the anime series has been licensed for digital and home release by Sentai Filmworks.\n\nBoth the manga and anime have been met with positive response. The manga won the 61st Shogakukan Manga Award for best shōnen manga in 2017. As of November 2020, Haikyu!! had over 50 million copies in circulation.",
+      "author": "Haruichi Furudate.",
+      "id": 12
+    },
+    {
+      "title": "One piece ",
+      "body": "The greatest anime ever",
+      "author": "Eiichiro Oda",
+      "id": 13
+    },
+    {
+      "title": "Naruto ",
+      "body": "Good anime",
+      "author": "Kishimoto",
+      "id": 14
+    }
+  ]
+}

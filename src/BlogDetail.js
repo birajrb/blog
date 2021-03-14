@@ -3,7 +3,9 @@ import useFakeFetch from "./useFakeFetch";
 const BlogDetail = () => {
   const { id } = useParams();
   const history = useHistory();
-  const { data: blogs, isLoading, error } = useFakeFetch("google.com//" + id);
+  const { data: blogs, isLoading, error } = useFakeFetch(
+    "http://localhost:8000/blogs/" + id
+  );
 
   const handleDelete = () => {
     fetch("http://localhost:8000/blogs/" + blogs.id, {

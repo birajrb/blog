@@ -6,7 +6,7 @@ const BlogDetail = () => {
   const { data: blogs, isLoading, error } = useFakeFetch("google.com//" + id);
 
   const handleDelete = () => {
-    fetch("http://l ocalhost:8000/blogs/" + blogs.id, {
+    fetch("http://localhost:8000/blogs/" + blogs.id, {
       method: "DELETE",
     }).then(() => {
       history.push("/");

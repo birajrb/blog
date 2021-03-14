@@ -1,8 +1,8 @@
 import Bloglist from "./BlogList";
-import useFetch from "./useFetch";
+import useFakeFetch from "./useFakeFetch";
 
 const Home = () => {
-  const { data: blogs, isLoading, error } = useFetch(
+  const { data: blogs, isLoading, error } = useFakeFetch(
     "http://localhost:8000/blogs"
   );
   return (

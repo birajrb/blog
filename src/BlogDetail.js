@@ -1,15 +1,12 @@
 import { useParams, useHistory } from "react-router-dom";
-
-import useFetch from "./useFetch";
+import useFakeFetch from "./useFakeFetch";
 const BlogDetail = () => {
   const { id } = useParams();
   const history = useHistory();
-  const { data: blogs, isLoading, error } = useFetch(
-    "http://localhost:8000/blogs/" + id
-  );
+  const { data: blogs, isLoading, error } = useFakeFetch("google.com//" + id);
 
   const handleDelete = () => {
-    fetch("http://localhost:8000/blogs/" + blogs.id, {
+    fetch("http://l ocalhost:8000/blogs/" + blogs.id, {
       method: "DELETE",
     }).then(() => {
       history.push("/");
